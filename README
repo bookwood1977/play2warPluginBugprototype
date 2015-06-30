@@ -5,7 +5,9 @@ demonstrating an Issue to play2war-Plugin 1.2
 
 twice response header item "Transfer-encoding: chunked" in for streams
 
-Play-2.2.4 (same problem also in 2.2.6)
+OS: Windows7
+Tomcat: 7.0.47 (64bit)
+Play: Play-2.2.4 (same problem also in 2.2.6)
 
 runs well with Play-2.1.5
 
